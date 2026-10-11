@@ -1,0 +1,2 @@
+This is original file 2.
+Hello from file 1!
